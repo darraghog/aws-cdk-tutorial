@@ -2,7 +2,7 @@
 
 URL: http://cdkworkshop.com
 
-=======
+---
 
 # Welcome to your CDK Python project!
 
